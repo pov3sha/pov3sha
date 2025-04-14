@@ -1,8 +1,8 @@
-### Yo! Esha here :)
+### 🌸 Yo! Esha here :)
 
-👩🏻‍💻 CompSci Student messing around with tech here n there.
-🌷 Absolutely love making random websites for my loved ones.
-💭 Currently learning about data structures and trying to grab on to serverhosts.
+~👩🏻‍💻 CompSci Student messing around with tech here n there.
+~🌷 Absolutely love making random websites for my loved ones.
+~💭 Currently learning about data structures and trying to grab on to serverhosts.
 
 
 
